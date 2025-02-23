@@ -1,6 +1,3 @@
 # output
 lc3-vm
 *.out
-
-# assembly files
-*.obj
